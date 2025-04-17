@@ -54,7 +54,7 @@ To break down critical controls within Sections 3, 8, 9, and 10 of the PCI-DSS S
 ## Document
 
 You can view the original paper (academic version) here:  
- [`PCI-DSS_SAQ-D_Guide.pdf`](./PCI-DSS_SAQ-D_Guide.pdf)
+ [`PCI-DSS SAQ-D Compliance- A Section-by-Section Guide to Secure Payment Practices.pdf`](./PCI-DSS SAQ-D Compliance- A Section-by-Section Guide to Secure Payment Practices.pdf)
 
 ---
 
